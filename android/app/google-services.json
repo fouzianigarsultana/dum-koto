@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "315726052628",
+    "firebase_url": "https://mullayon-info.firebaseio.com",
+    "project_id": "mullayon-info",
+    "storage_bucket": "mullayon-info.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315726052628:android:cbb4c379d1833f1720d601",
+        "android_client_info": {
+          "package_name": "com.infobahnrealm.mullayon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "315726052628-6bhppe5jdrend5912lrolmm1ersptipg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.infobahnrealm.mullayon",
+            "certificate_hash": "082adba1017c1a0e56ce37b74f8f0cdaae6f904d"
+          }
+        },
+        {
+          "client_id": "315726052628-hs3jj7oo3m22i18p0c7pgqma260rif03.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx1zrfJ96A9CYMpe53UADSULD5XoVbqX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "315726052628-hs3jj7oo3m22i18p0c7pgqma260rif03.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
